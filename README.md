@@ -1,4 +1,4 @@
-# Vue Slider Input 🔢
+# Vue Slider Input
 
 
 ![[banner]](https://i.ibb.co/CKTgxgt/vue-slider-input.png)
@@ -50,7 +50,7 @@ const selectedValue = ref<number>(0) // index of selected value
         :breakPointColor="'#909cb5'" />
 </template>
 ```
-![[banner]](https://i.ibb.co/VNW9jjG/vue-input-slider-demo.png)
+![[image]](https://i.ibb.co/VNW9jjG/vue-input-slider-demo.png)
 
 ## Customization
 ### prop properties
