@@ -1,7 +1,7 @@
 {
   "name": "vue-slider-input",
   "private": false,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./dist/vue-slider-input.umd.js",
   "module": "./dist/vue-slider-input.es.js",
   "type": "module",
