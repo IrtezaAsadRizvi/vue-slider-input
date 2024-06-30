@@ -50,7 +50,7 @@ const selectedValue = ref<number>(0) // index of selected value
         :breakPointColor="'#909cb5'" />
 </template>
 ```
-![alt text](https://i.ibb.co/VNW9jjG/vue-input-slider-demo.png)
+![[banner]](https://i.ibb.co/VNW9jjG/vue-input-slider-demo.png)
 
 ## Customization
 ### prop properties
