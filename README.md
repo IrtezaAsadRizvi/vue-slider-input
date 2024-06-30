@@ -7,15 +7,15 @@
 VueSliderInput is a highly customizable and user-friendly slider component for Vue 3, designed to enhance user experience with interactive and visually appealing sliders. This versatile slider component comes with a tooltip feature, making it ideal for applications requiring precise input and feedback, such as pricing selections, age selection, and more.
 
 ## ✨ Demo
-Try the slider out! - https://vue-slider-input.web.app/
+Try the slider out! - **<a href="https://vue-slider-input.web.app/" target="_blank">vue-slider-input.web.app</a>**
 
 ## ✨ Features
 
-- ✨ Tooltip Display: Provides real-time feedback by displaying the current slider value in a tooltip, improving user interaction.
-- ✨ Customizable Appearance: Allows you to customize slider colors, tooltip colors, and thumb colors to match your application’s theme.
-- ✨ Breakpoints: Optionally display breakpoints along the slider for better user guidance.
-- ✨ Flexible Input: Accepts an array of predefined values, perfect for fixed pricing tiers or predefined age ranges.
-- ✨ Responsive Design: Ensures smooth performance and visual consistency across various screen sizes and devices.
+- ✨ **Tooltip Display**: Provides real-time feedback by displaying the current slider value in a tooltip, improving user interaction.
+- ✨ **Customizable Appearance**: Allows you to customize slider colors, tooltip colors, and thumb colors to match your application’s theme.
+- ✨ **Breakpoints**: Optionally display breakpoints along the slider for better user guidance.
+- ✨ **Flexible Input**: Accepts an array of predefined values, perfect for fixed pricing tiers or predefined age ranges.
+- ✨ **Responsive Design**: Ensures smooth performance and visual consistency across various screen sizes and devices.
 
 
 
