@@ -1,4 +1,4 @@
-# Vue 3 Counter 🔢
+# Vue Slider Input 🔢
 
 
 ![[banner]](https://i.ibb.co/CKTgxgt/vue-slider-input.png)
@@ -6,7 +6,8 @@
 
 VueSliderInput is a highly customizable and user-friendly slider component for Vue 3, designed to enhance user experience with interactive and visually appealing sliders. This versatile slider component comes with a tooltip feature, making it ideal for applications requiring precise input and feedback, such as pricing selections, age selection, and more.
 
-
+## ✨ Demo
+Try the slider out! - https://vue-slider-input.web.app/
 
 ## ✨ Features
 
