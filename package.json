@@ -1,0 +1,41 @@
+{
+  "name": "vue-slider-input",
+  "private": false,
+  "version": "1.0.0",
+  "main": "./dist/vue-slider-input.umd.js",
+  "module": "./dist/vue-slider-input.es.js",
+  "type": "module",
+  "author": "Irteza Asad <irtezaasad@gmail.com>",
+  "exports": {
+    ".": {
+      "import": "./dist/vue-slider-input.es.js",
+      "require": "./dist/vue-slider-input.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.29"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1",
+    "vue-tsc": "^2.0.21"
+  },
+  "description": "VueSliderInput is a highly customizable and user-friendly slider component for Vue 3, designed to enhance user experience with interactive and visually appealing sliders. This versatile slider component comes with a tooltip feature, making it ideal for applications requiring precise input and feedback, such as pricing selections, age selection, and more.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrtezaAsadRizvi/vue-slider-input.git"
+  },
+  "license": "MIT",
+  "homepage": "https://vue-slider-input.web.app/"
+}
